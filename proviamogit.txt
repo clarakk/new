@@ -1,4 +1,7 @@
 proviamo!
 proviamo ancora git!
+<<<<<<< HEAD
 di notte!
 ma come funziona?
+=======
+>>>>>>> e3eff17... Update proviamogit.txt
