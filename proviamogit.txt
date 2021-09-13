@@ -1,5 +1,9 @@
 proviamo!
 proviamo ancora git!
 di notte!
+<<<<<<< HEAD
 ma come funziona?
 provo ancora
+=======
+ma come funziona?
+>>>>>>> f55ae87... funziona?
