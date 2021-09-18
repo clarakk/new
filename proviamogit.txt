@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 proviamo!
 proviamo ancora git!
 <<<<<<< HEAD
@@ -10,3 +11,6 @@ ma come funziona?
 provo ancora
 non ce la faccio a imparare git!
 >>>>>>> dc7db12... Update proviamogit.txt
+=======
+prova
+>>>>>>> 9dd00605310e596674b51fa25adf9bfe11b5b652
