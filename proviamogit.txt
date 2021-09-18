@@ -5,6 +5,7 @@ proviamo ancora git!
 di notte!
 ma come funziona?
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> e3eff17... Update proviamogit.txt
 =======
@@ -14,3 +15,7 @@ non ce la faccio a imparare git!
 =======
 prova
 >>>>>>> 9dd00605310e596674b51fa25adf9bfe11b5b652
+=======
+provo ancora
+non ce la faccio a imparare git!
+>>>>>>> dc7db12... Update proviamogit.txt
