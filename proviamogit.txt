@@ -1,32 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ca9896c6183763ceb64f0db19c3f981fc2304d3e
 proviamo!
 proviamo ancora git!
 di notte!
 ma come funziona?
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> e3eff17... Update proviamogit.txt
-=======
 provo ancora
 non ce la faccio a imparare git!
->>>>>>> dc7db12... Update proviamogit.txt
-=======
-prova
->>>>>>> 9dd00605310e596674b51fa25adf9bfe11b5b652
-=======
-provo ancora
-non ce la faccio a imparare git!
->>>>>>> dc7db12... Update proviamogit.txt
-=======
-prova
->>>>>>> 9dd0060... Update proviamogit.txt
-=======
-provo ancora
-non ce la faccio a imparare git!
->>>>>>> ca9896c6183763ceb64f0db19c3f981fc2304d3e
