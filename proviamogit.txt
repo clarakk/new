@@ -1,10 +1,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ca9896c6183763ceb64f0db19c3f981fc2304d3e
 proviamo!
 proviamo ancora git!
-<<<<<<< HEAD
 di notte!
 ma come funziona?
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -23,3 +26,7 @@ non ce la faccio a imparare git!
 =======
 prova
 >>>>>>> 9dd0060... Update proviamogit.txt
+=======
+provo ancora
+non ce la faccio a imparare git!
+>>>>>>> ca9896c6183763ceb64f0db19c3f981fc2304d3e
