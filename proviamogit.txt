@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 proviamo!
 proviamo ancora git!
 <<<<<<< HEAD
@@ -19,3 +20,6 @@ prova
 provo ancora
 non ce la faccio a imparare git!
 >>>>>>> dc7db12... Update proviamogit.txt
+=======
+prova
+>>>>>>> 9dd0060... Update proviamogit.txt
