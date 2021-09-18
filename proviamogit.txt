@@ -3,5 +3,10 @@ proviamo ancora git!
 <<<<<<< HEAD
 di notte!
 ma come funziona?
+<<<<<<< HEAD
 =======
 >>>>>>> e3eff17... Update proviamogit.txt
+=======
+provo ancora
+non ce la faccio a imparare git!
+>>>>>>> dc7db12... Update proviamogit.txt
