@@ -4,6 +4,10 @@ di notte!
 <<<<<<< HEAD
 ma come funziona?
 provo ancora
+<<<<<<< HEAD
 =======
 ma come funziona?
 >>>>>>> f55ae87... funziona?
+=======
+non ce la faccio a imparare git!
+>>>>>>> dc7db12857930cab99eb8305f30f5d9ab767e4bc
